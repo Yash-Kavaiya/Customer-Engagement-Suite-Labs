@@ -4,11 +4,12 @@
 
 ### Generative Playbooks
 
-Use OpenAPI Tools with Conversational Agents https://youtu.be/u9J2KiVea7k?si=koOmiYpVipULGYwS 
-Create a Conversational Agent Playbook that connects to an unstructured data store tool https://youtu.be/OeLzibFCtlI
+| 🎓 **Module / Topic**                                                                       | 🔗 **Video / Resource Link**                                         | 🧩 **Description**                                                                                       |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Use OpenAPI Tools with Conversational Agents**                                            | [Watch on YouTube](https://youtu.be/u9J2KiVea7k?si=koOmiYpVipULGYwS) | Learn how to integrate OpenAPI tools with conversational agents to extend their functionality.           |
+| **Create a Conversational Agent Playbook that connects to an Unstructured Data Store Tool** | [Watch on YouTube](https://youtu.be/OeLzibFCtlI)                     | Build a playbook that links your conversational agent to unstructured data sources for richer responses. |
+| **Build a Basic Conversational Agent Flow**                                                 | [Watch on YouTube](https://youtu.be/49Yp3mkuuyY?si=oVgnimlUuHCb5WMm) | Step-by-step guide to designing the core flow of a conversational agent.                                 |
+| **Conversational Agents with Generative Fallbacks**                                         | *Coming Soon / Internal Module*                                      | Implement fallback strategies using generative AI when structured responses fail.                        |
+| **Create a Chat and Voice FAQ Bot with Conversational Agent Playbooks and Data Stores**     | *Coming Soon / Internal Module*                                      | Develop an FAQ bot that handles both chat and voice interactions using data store integration.           |
+| **Build Basic Conversational Agents: Challenge Lab**                                        | *Hands-on Lab*                                                       | Practice lab for applying concepts and testing your agent-building skills.                               |
 
-Build a basic Conversational Agent Flow https://youtu.be/49Yp3mkuuyY?si=oVgnimlUuHCb5WMm
-Conversational Agents with Generative Fallbacks 
-Create a chat and voice FAQ bot with Conversational Agent Playbooks and Data Stores
-
-Build Basic Conversational Agents: Challenge Lab
