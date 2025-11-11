@@ -12,3 +12,14 @@
 | **Conversational Agents with Generative Fallbacks**                                         | 🧩 *Module (Coming Soon)*                                                                                                                 | Implement fallback strategies using generative AI when structured responses fail.                        |
 | **Create a Chat and Voice FAQ Bot with Conversational Agent Playbooks and Data Stores**     | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://youtu.be/u8VBxSqaC3E))  | Develop an FAQ bot that handles both chat and voice interactions using data store integration.           |
 | **Build Basic Conversational Agents: Challenge Lab**                                        | 🧪 *Hands-on Lab*                                                                                                                        | Practice lab for applying concepts and testing your agent-building skills.                               |
+
+
+
+
+
+## 1. Customer Engagement Suite: Production-Ready Conversational Agents
+| 🎓 **Module / Topic**                                                                       | 🔗 **Video / Resource**                                                                                                                   | 🧩 **Description**                                                                                       |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Secure your Conversational Agents Webhooks and Tools**                                            | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://youtu.be/pvRNG_0CPPI) | Learn how to integrate OpenAPI tools with conversational agents to extend their functionality.           |
+| **Redact Sensitive Data with the Data Loss Prevention API for Conversational Agents** | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://youtu.be/gjtsEWMNwUA)                     | Build a playbook that links your conversational agent to unstructured data sources for richer responses. |
+
